@@ -7,7 +7,7 @@ When I have free time I'll improve my source code with new functionalities..
 
 
 Even if, I written everything about the problems to connect phone to pc in my source code, I would like to add the tasks to do in order to get the connection.
-//*********************************************************************************************************
+//********************************************************************
 So when you connected by USB follow these commands:
 
 stay connect via USB
@@ -28,4 +28,4 @@ adb connect yourDeviceIP
 adb devices (must be see two device names , one of them is by deviceIP)
 
 unplug USB cable
-//*************************************************************************************************
+//************************************************************************
